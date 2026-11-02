@@ -2,17 +2,6 @@
 
 > A beginner-friendly lab that teaches practical prompting by improving one prompt in four progressively more challenging exercises.
 
-## Lab at a glance
-
-| Item | Details |
-|---|---|
-| Audience | New Microsoft 365 Copilot users |
-| Duration | 20 minutes |
-| Format | Individual hands-on lab |
-| Experience needed | None |
-| Product | Microsoft 365 Copilot Chat |
-| Outcome | Write, test, evaluate, and refine a useful work prompt |
-
 ## What you will learn
 
 By the end of this lab, you will be able to:
@@ -38,9 +27,9 @@ You do not need all four ingredients in every prompt. Begin with a clear goal, t
 
 ## Before you begin — 2 minutes
 
-1. Open **Microsoft 365 Copilot Chat** using your organization's normal sign-in method.
-2. Start a new chat.
-3. Keep this lab open in another browser tab.
+1. Open any Microsoft Office Product.
+2. Choose **File** then **Office Account**.
+3. Choose **Update Options** then **Update Now** and update Microsoft Office.
 4. Do not enter confidential, sensitive, or regulated information unless your organization's policies allow it.
 
 > [!NOTE]
